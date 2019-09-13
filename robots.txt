@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queusuecah.jannickpiller.com/sitemap.xml
